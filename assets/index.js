@@ -23,7 +23,7 @@ function checkColors (event){
       Swal.fire({
         position: "center",
         icon: "success",
-        title: " You won Thank you for playing",
+        title: " You won ! Thank you for playing",
         showConfirmButton: true,
         timer: 2500,
       })},
